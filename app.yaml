@@ -1,4 +1,4 @@
-service: task-1
+service: demo-task-1
 
 runtime: python
 env: flex
