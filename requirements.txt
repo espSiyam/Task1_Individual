@@ -1,0 +1,8 @@
+fastapi
+httpx
+xml
+re
+uvicorn
+jinja2
+gunicorn
+Werkzeug
