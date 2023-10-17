@@ -1,7 +1,5 @@
-service: demo-task-1
-
 runtime: python
-env: flex
+env: standard
 entrypoint: uvicorn main:app --host 0.0.0.0 --port $PORT
 
 runtime_config:
